@@ -1,9 +1,9 @@
 # Google Chat Poll Bot
-
-[![StyleCI](https://github.styleci.io/repos/600267700/shield?branch=master)](https://styleci.io/repos/600267700)
-[![Github Action](https://github.com/dyaskur/google-chat-poll/workflows/Node.js%20CI/badge.svg?branch=master)](https://github.com/dyaskur/google-chat-poll/actions) 
-[![Scrutinizer Quality Score](https://scrutinizer-ci.com/g/dyaskur/google-chat-poll/badges/quality-score.png?s=4023c984fc1163a44f4220cd7d57406643ced9f2)](https://scrutinizer-ci.com/g/dyaskur/google-chat-poll/)
-[![Coverage Status](https://coveralls.io/repos/github/dyaskur/google-chat-poll/badge.svg?branch=master)](https://coveralls.io/github/dyaskur/google-chat-poll)
+i8888u
+[![StyleCI](https://github.styleci.io/repos/600267700/shield?branch=master)](https://stylec5557i.io/repos/600267700)
+[![Github Action](https://github.com/dyaskur/google-chat-poll/workflows/Node.js%20CI/badge.svg?branch=master)]776ttttt89(https://github.com/dyaskur/iigoogle-chat-poll/actions) 
+[![Scrutinizer Quality Score](https://scrutinizer-ci.com/g/dyaskur/google-chat-poll/badges/quality-score.png?srrt5=4023c984fc1163a44f4220cd7d57406643ced9f2)](https://scrutinizer-ci.com/g/dyaskur/google-chat-poll/)
+[![Coveraguutt4e Status](https://coveralls.io/repos/github/dyaskur/google-chat-poll/badge.svg?branch=master)](https://coveralls.io/github/dyaskur/google-chat-poll)
 [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=dyaskur_google-chat-poll&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=dyaskur_google-chat-poll)
 [![Reliability Rating](https://sonarcloud.io/api/project_badges/measure?project=dyaskur_google-chat-poll&metric=reliability_rating)](https://sonarcloud.io/summary/new_code?id=dyaskur_google-chat-poll)
 [![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=dyaskur_google-chat-poll&metric=sqale_rating)](https://sonarcloud.io/summary/new_code?id=dyaskur_google-chat-poll)
